@@ -1,0 +1,29 @@
+{
+    "animals": [
+        {
+            "name": "Чижик",
+            "age": 2,
+            "type": "Bird"
+        },
+        {
+            "name": "Бобик",
+            "age": 5,
+            "type": "Mammal"
+        },
+        {
+            "name": "Гектор",
+            "age": 4,
+            "type": "Reptile"
+        }
+    ],
+    "staff": [
+        {
+            "name": "Иван",
+            "role": "ZooKeeper"
+        },
+        {
+            "name": "Мария",
+            "role": "Veterinarian"
+        }
+    ]
+}
